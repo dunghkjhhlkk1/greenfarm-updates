@@ -1,14 +1,14 @@
 {
-  "version": "1.0.8",
-  "release_date": "2026-10-25T06:57:07Z",
-  "apk_download_url": "https://github.com/dunghkjhhlkk1/greenfarm-updates/releases/download/v1.0.8/NongTraiCoDo.apk",
+  "version": "1.0.9",
+  "release_date": "2026-10-25T08:43:00Z",
+  "apk_download_url": "https://github.com/dunghkjhhlkk1/greenfarm-updates/releases/download/v1.0.9/NongTraiCoDO-1.0.9.apk",
   "platforms": {
     "android": {
-      "version": "1.0.8",
-      "version_code": 1000008,
-      "download_url": "https://github.com/dunghkjhhlkk1/greenfarm-updates/releases/download/v1.0.8/NongTraiCoDo.apk",
-      "sha256": "f32c328bb4b25ab9441aed409f24aaf112ecfd5f01abd431efcce56f9197e204",
-      "size_bytes": 180339214,
+      "version": "1.0.9",
+      "version_code": 1000009,
+      "download_url": "https://github.com/dunghkjhhlkk1/greenfarm-updates/releases/download/v1.0.9/NongTraiCoDO-1.0.9.apk",
+      "sha256": "dfc1e3357be1516ea44f36a9ab034aacc4e24539b6ed040ec206a25f16c0a5c5",
+      "size_bytes": 180347406,
       "in_app_install": true
     },
     "ios": {
@@ -17,8 +17,8 @@
     }
   },
   "changelog": [
-    "Improve farm UI, seasonal environments, missions and in-app Android updates"
+    "Fix mobile gameplay issues and publish versioned Android APK"
   ],
-  "apk_sha256": "f32c328bb4b25ab9441aed409f24aaf112ecfd5f01abd431efcce56f9197e204",
-  "apk_size_bytes": 180339214
+  "apk_sha256": "dfc1e3357be1516ea44f36a9ab034aacc4e24539b6ed040ec206a25f16c0a5c5",
+  "apk_size_bytes": 180347406
 }
