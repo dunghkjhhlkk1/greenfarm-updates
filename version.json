@@ -1,14 +1,14 @@
 {
-  "version": "1.0.9",
-  "release_date": "2026-10-25T08:43:00Z",
-  "apk_download_url": "https://github.com/dunghkjhhlkk1/greenfarm-updates/releases/download/v1.0.9/NongTraiCoDO-1.0.9.apk",
+  "version": "1.0.10",
+  "release_date": "2026-10-26T00:20:32Z",
+  "apk_download_url": "https://github.com/dunghkjhhlkk1/greenfarm-updates/releases/download/v1.0.10/NongTraiCoDO-1.0.10.apk",
   "platforms": {
     "android": {
-      "version": "1.0.9",
-      "version_code": 1000009,
-      "download_url": "https://github.com/dunghkjhhlkk1/greenfarm-updates/releases/download/v1.0.9/NongTraiCoDO-1.0.9.apk",
-      "sha256": "dfc1e3357be1516ea44f36a9ab034aacc4e24539b6ed040ec206a25f16c0a5c5",
-      "size_bytes": 180347406,
+      "version": "1.0.10",
+      "version_code": 1000010,
+      "download_url": "https://github.com/dunghkjhhlkk1/greenfarm-updates/releases/download/v1.0.10/NongTraiCoDO-1.0.10.apk",
+      "sha256": "243c754af3d1ef486ffc1a85a07c8aa536814846d5294186dbff0b364729c2bb",
+      "size_bytes": 180347495,
       "in_app_install": true
     },
     "ios": {
@@ -17,8 +17,8 @@
     }
   },
   "changelog": [
-    "Fix mobile gameplay issues and publish versioned Android APK"
+    "Polish native farm visuals, herd interaction and provincial map performance"
   ],
-  "apk_sha256": "dfc1e3357be1516ea44f36a9ab034aacc4e24539b6ed040ec206a25f16c0a5c5",
-  "apk_size_bytes": 180347406
+  "apk_sha256": "243c754af3d1ef486ffc1a85a07c8aa536814846d5294186dbff0b364729c2bb",
+  "apk_size_bytes": 180347495
 }
